@@ -1,4 +1,4 @@
-# whatsapp_clone
+# Chat App
 
 A new Flutter project.
 
